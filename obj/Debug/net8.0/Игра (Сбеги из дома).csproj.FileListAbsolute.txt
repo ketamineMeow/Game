@@ -1,0 +1,14 @@
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\bin\Debug\net8.0\Игра (Сбеги из дома).exe
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\bin\Debug\net8.0\Игра (Сбеги из дома).deps.json
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\bin\Debug\net8.0\Игра (Сбеги из дома).runtimeconfig.json
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\bin\Debug\net8.0\Игра (Сбеги из дома).dll
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\bin\Debug\net8.0\Игра (Сбеги из дома).pdb
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\Игра (Сбеги из дома).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\Игра (Сбеги из дома).AssemblyInfoInputs.cache
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\Игра (Сбеги из дома).AssemblyInfo.cs
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\Игра (Сбеги из дома).csproj.CoreCompileInputs.cache
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\Игра (Сбеги из дома).dll
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\refint\Игра (Сбеги из дома).dll
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\Игра (Сбеги из дома).pdb
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\Игра (Сбеги из дома).genruntimeconfig.cache
+C:\Users\varya\source\repos\Игра (Сбеги из дома)\obj\Debug\net8.0\ref\Игра (Сбеги из дома).dll
